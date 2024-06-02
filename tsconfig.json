@@ -1,9 +1,9 @@
 {
-    "compilerOptions": {
-        "strict": true,
-        "removeComments": true,
-    },
-    "exclude": [
-        "node_modules"
-    ]
+  "compilerOptions": {
+    "strict": true,
+    "removeComments": true,
+  },
+  "exclude": [
+    "node_modules"
+  ]
 }
